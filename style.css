@@ -1,7 +1,8 @@
 body {
-  background-color: blue;
+    background-color: skyblue;
 }
 
 p {
-  border: 1px solid powderblue;
+    border-style: solid;
+    border-color: red;
 }
